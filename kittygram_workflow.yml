@@ -1,0 +1,6 @@
+name: Main Kitty workflow
+
+on:
+  push:
+    branches:
+      - main
